@@ -5,7 +5,7 @@
 ### Git
 
 #### Git Commits
-Motivation: Good commit messages matter and Chris Beams [explains](https://chris.beams.io/posts/git-commit/) why:
+Motivation: Good commit messages matter as Chris Beams [explains](https://chris.beams.io/posts/git-commit/) why:
 > it is the best way to communicate context about a change to fellow developers and future selve amd it also empowers other Git commands like `git blame`, `revert`, `rebase`, `log`, `shortlog`
 
 Some tips:
@@ -15,11 +15,13 @@ Some tips:
   - Remove deprecated methods
   - Release version 1.0.0
 - Use the body to explain what changed and why
+- Change one thing
 
 Benefits as David Thompson [lists](https://dhwthompson.com/2019/my-favourite-git-commit):
 - commit message are searchable
 - tells a story
 
+Other good people's [words](https://mtlynch.io/human-code-reviews-1/#let-computers-do-the-boring-parts)
 
 ## Machine Learning
 
