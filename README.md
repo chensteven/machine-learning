@@ -14,7 +14,12 @@ Some tips:
   - Update getting started documentation
   - Remove deprecated methods
   - Release version 1.0.0
-- Use the body to explain what and why
+- Use the body to explain what changed and why
+
+Benefits as David Thompson [lists](https://dhwthompson.com/2019/my-favourite-git-commit):
+- commit message are searchable
+- tells a story
+
 
 ## Machine Learning
 
